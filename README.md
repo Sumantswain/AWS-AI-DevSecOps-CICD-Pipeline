@@ -3,7 +3,7 @@
 <div align="center">
 
   <br />
-    <a href="https://youtu.be/0A46RQiLCBE" target="_blank">
+    <a href="[https://youtu.be/0A46RQiLCBE](https://github.com/Sumantswain/AWS-AI-DevSecOps-CICD-Pipeline)" target="_blank">
       <img src="https://github.com/user-attachments/assets/c07f2ed3-a000-459c-ab2a-a58565470c9a" alt="Project Banner">
     </a>
   <br />
